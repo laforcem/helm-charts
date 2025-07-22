@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  airconnect:
+  - apiVersion: v2
+    appVersion: 1.8.3
+    created: "2025-07-22T10:59:29.483985593-06:00"
+    description: A Helm chart for 1activegeek/airconnect
+    digest: 0681a5438af99b47a30d5977651fcf14118e5f0d848877314d4cc96598780b81
+    maintainers:
+    - email: contact@laforce.dev
+      name: laforcem
+    name: airconnect
+    type: application
+    urls:
+    - airconnect-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-22T10:59:29.476924433-06:00"
